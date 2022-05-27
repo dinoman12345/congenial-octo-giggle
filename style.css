@@ -1,0 +1,44 @@
+.h{
+font-size: 23px;
+width: 100%;
+margin:0px;
+}
+.note{
+    font-size: 15px;
+    color:black
+}
+body{
+    background-size: cover;
+
+}
+#dinoo{
+    float:left;
+
+}
+#dinop{
+    width:200px;
+    border-radius:100px;
+}
+#dinoq{
+    font-size: 23px;
+    margin:15px;
+}
+#dinor{
+    float:right;
+}
+#dinos{
+    width:200px;
+    border-radius: 100px;
+}
+#dinot{
+    font-size :23px;
+    margin:15px
+}
+#dinov{
+    width:130px;
+    font-size:25px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius:20px;
+} 
